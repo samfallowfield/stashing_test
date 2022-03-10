@@ -6,4 +6,6 @@ new_array = array.each do |element|
 
 end
 
+puts "hello world"
+
 new_array
