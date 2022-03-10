@@ -6,5 +6,4 @@ new_array = array.each do |element|
 
 end
 
-
 new_array
